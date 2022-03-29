@@ -11,4 +11,6 @@ Build Info:
 ------------------------------------------------------
 
 Set features: Game/app uploads, game/app backups for full titles and save data, and some games for download to get the store started! No apps yet, I need some homebrew apps for the store. Open an issue if you have a homebrew app I can use.
-quantumgames is helping with this project, he will have his own fork.
+quantumgames is helping with this project, he will have his own branch.
+
+Sorry I havent been developing, been too busy with school, working on Left 2 Die Season 4, and hanging out with my friends.
